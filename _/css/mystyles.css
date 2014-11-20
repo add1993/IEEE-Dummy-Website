@@ -1,0 +1,24 @@
+.home {
+	background-color:#FAFAFA;
+}
+
+.container {
+	background-color:white;
+}
+
+.slider-size {
+height: 400px; /* This is your slider height */
+}
+.carousel {
+width:100%; 
+margin:0 auto; /* center your carousel if other than 100% */ 
+}
+
+.breadcrumb {
+	background-color: #3C3C3C;
+	padding-left:50px;
+}
+
+.breadcrumb>li {
+	text-shadow:0 0px 0 #fff;
+}
